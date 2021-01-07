@@ -18,5 +18,5 @@
 .aaa {
     height: 50px;
     min-width: 150px;
-    max-width: 200px;
+    width: fit-content;
 }
